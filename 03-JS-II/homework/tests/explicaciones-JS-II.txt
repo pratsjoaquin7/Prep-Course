@@ -1,0 +1,13 @@
+´for´ : Es un bucle que se escribe entre parentesis y es separado por punto y coma, se compone de tres partes, 
+        preimero la VARIABLE sobre la que se ejecutara el bucle, segundo la EXPRESION CONDICIONAL evalua que cada
+        iteracion del bucle sea verdadera, tercero la EXPRESION FINAL que por lo general es el operador de
+        incremento ++ y se ejecuta hasta que la decalracion sea falsa.
+
+operador ´&&´: "Y, And" este operador evalua si las dos expresiones son iguales, y devuelve true si ambas son iguales
+                si una o las dos expresiones son falsas devuelve false.
+
+operador ´||´: "O, Or" este operador que evalua si una de las expresiones es verdadera, si una o ambas son verdadera
+               devuelve true. Si ambas expresiones son falsas devolvera false.
+
+operador ´!´: "NO, Not" este operador convierte a booleano la variable que estamos usando con el, y retorna el valor
+              contrario a esa variable, si la variable es true retorna false y viceversa.
