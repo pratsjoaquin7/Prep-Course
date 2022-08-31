@@ -1,0 +1,18 @@
+Variables: Una variable es una forma de alamacenar el valor de algo para poder usaldo despues.Para crear una
+           variable en JS se utiliza la palabra clave var. tambien se pueden declarar con let y cosnt pero su
+           comportamiendo es un poco diferente.
+
+Strings: Los strings son bloques de caracteres que se escriben "entre comillas".son un tipo de dato que se pueden
+         alamacenar dentro de una variable.
+
+Funciones: Una funcion es un conjunto de instrucciones que realizan una tarea, puede o no tener argumentos que le
+           de pasen valor a la funcion. Sirve para agrupar codigo que voy a utilizar muchas veces. La sentencia 
+           return finaliza la ejecucion de la funcion y devuelve un valor. Para crear una funcion en JS se utiliza
+           la palabra clave function.
+
+Declaraciones(if): if es un operador de control de flujo y compracion. Sirve para realizar una u otras funciones
+                   en una funcion. Primero evalua la expresion, si el resultado es positivo se realizan las 
+                   acciones del caso positivo.
+
+Booleanos: Son un tipo de dato que compruban si una condicion especifica es verdadera o falsa tiene dos posibles 
+           valore "true" "false".
