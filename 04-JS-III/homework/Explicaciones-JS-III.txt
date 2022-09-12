@@ -1,0 +1,2 @@
+Arrays: Un Array es un grupo de elementos que estan dentro de una misma variable, cada elemento tiene un lugar
+        especifico en el array al cual se puede acceder con diferentes funciones.
