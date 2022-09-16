@@ -1,0 +1,18 @@
+Objetos: Un objeto es una coleccion de propiedades que definen las caracteristicas y funciones del objeto.
+
+Propiedades: Se pueden explicar como una variable del objeto, las propiedades de un objeto definen las caracteristicas
+             del OBJETO.
+
+Metodos: Un metodo es una función la cual es propiedad de un objeto, es vasicamente encerrar las propiedades de una
+         funcion y que se pueda acceder a ella mediante metodos.
+
+For in: Es un bucle que simplifica el bucle FOR tradicional sin tener que darle un numero de vueltas ni realizar un
+        incremento.
+
+Notaciones:
+De punto: Es la forma mas utilizada para acceder a las propiedades de un objeto. Esta forma de notacion no permite
+          usarse con variables.
+
+De corchete: es una manera de acceder a una propiedad de un objeto, a diferencia de la notacion de punto, puede 
+             usarse en variables. Para usar este tipo de notacion dentro de los corchetes el nombre de la propiedad
+             se escribe como un "String".          
